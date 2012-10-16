@@ -1,0 +1,14 @@
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\TestingProject\bin\Release\PageModelLibrary.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\TestingProject\bin\Release\PageModelLibrary.pdb
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\TestingProject\bin\Release\Castle.Core.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\TestingProject\bin\Release\InputSimulator.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\TestingProject\bin\Release\Ionic.Zip.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\TestingProject\bin\Release\Newtonsoft.Json.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\TestingProject\bin\Release\nunit.framework.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\TestingProject\bin\Release\Selenium.WebDriverBackedSelenium.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\TestingProject\bin\Release\ThoughtWorks.Selenium.Core.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\TestingProject\bin\Release\WebDriver.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\TestingProject\bin\Release\WebDriver.Support.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\TestingProject\obj\Release\ResolveAssemblyReference.cache
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\TestingProject\obj\Release\PageModelLibrary.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\TestingProject\obj\Release\PageModelLibrary.pdb

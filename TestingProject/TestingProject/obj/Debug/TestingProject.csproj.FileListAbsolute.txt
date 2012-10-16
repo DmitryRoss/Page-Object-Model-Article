@@ -1,0 +1,42 @@
+c:\users\drossokhovatskiy\documents\visual studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+c:\users\drossokhovatskiy\documents\visual studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+c:\users\drossokhovatskiy\documents\visual studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\Castle.Core.dll
+c:\users\drossokhovatskiy\documents\visual studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\Ionic.Zip.dll
+c:\users\drossokhovatskiy\documents\visual studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\nunit.framework.dll
+c:\users\drossokhovatskiy\documents\visual studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+c:\users\drossokhovatskiy\documents\visual studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\ThoughtWorks.Selenium.Core.dll
+c:\users\drossokhovatskiy\documents\visual studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\WebDriver.dll
+c:\users\drossokhovatskiy\documents\visual studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\WebDriver.Support.dll
+c:\users\drossokhovatskiy\documents\visual studio 2010\Projects\ClassLibrary2\ClassLibrary2\obj\Debug\ResolveAssemblyReference.cache
+c:\users\drossokhovatskiy\documents\visual studio 2010\Projects\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+c:\users\drossokhovatskiy\documents\visual studio 2010\Projects\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+c:\users\drossokhovatskiy\documents\visual studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\drossokhovatskiy\documents\visual studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\InputSimulator.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\ClassLibrary2\obj\Debug\ResolveAssemblyReference.cache
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\ClassLibrary2\bin\Debug\PageModelLibrary.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\ClassLibrary2\bin\Debug\PageModelLibrary.pdb
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\ClassLibrary2\bin\Debug\Castle.Core.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\ClassLibrary2\bin\Debug\InputSimulator.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\ClassLibrary2\bin\Debug\Ionic.Zip.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\ClassLibrary2\bin\Debug\Newtonsoft.Json.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\ClassLibrary2\bin\Debug\nunit.framework.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\ClassLibrary2\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\ClassLibrary2\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\ClassLibrary2\bin\Debug\WebDriver.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\ClassLibrary2\bin\Debug\WebDriver.Support.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\ClassLibrary2\obj\Debug\PageModelLibrary.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\ClassLibrary2\obj\Debug\PageModelLibrary.pdb
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\TestingProject\bin\Debug\PageModelLibrary.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\TestingProject\bin\Debug\PageModelLibrary.pdb
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\TestingProject\bin\Debug\Castle.Core.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\TestingProject\bin\Debug\InputSimulator.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\TestingProject\bin\Debug\Ionic.Zip.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\TestingProject\bin\Debug\Newtonsoft.Json.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\TestingProject\bin\Debug\nunit.framework.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\TestingProject\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\TestingProject\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\TestingProject\bin\Debug\WebDriver.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\TestingProject\bin\Debug\WebDriver.Support.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\TestingProject\obj\Debug\ResolveAssemblyReference.cache
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\TestingProject\obj\Debug\PageModelLibrary.dll
+D:\Staff\pojects\PageObjectModelArticle\repo\ClassLibrary2\TestingProject\obj\Debug\PageModelLibrary.pdb

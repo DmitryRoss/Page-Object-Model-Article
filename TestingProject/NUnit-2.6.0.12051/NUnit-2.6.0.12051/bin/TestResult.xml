@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\Staff\pojects\PageObjectModelArticle\repo\TestingProject\TestingProject\bin\Debug\PageModelLibrary.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2012-10-16" time="13:56:54">
+  <environment nunit-version="2.6.0.12051" clr-version="2.0.50727.5456" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="D:\Staff\pojects\PageObjectModelArticle\repo\TestingProject\NUnit-2.6.0.12051\NUnit-2.6.0.12051\bin" machine-name="ROSSOKHOVATSKIY" user="drossokhovatskiy" user-domain="UNIVERSE" />
+  <culture-info current-culture="ru-RU" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="D:\Staff\pojects\PageObjectModelArticle\repo\TestingProject\TestingProject\bin\Debug\PageModelLibrary.dll" executed="True" result="Success" success="True" time="18.328" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="TestingProject" executed="True" result="Success" success="True" time="18.312" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="18.312" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="LoginTests" executed="True" result="Success" success="True" time="18.312" asserts="0">
+                <results>
+                  <test-case name="TestingProject.Tests.LoginTests.AssertLogin" executed="True" result="Success" success="True" time="6.594" asserts="0" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
